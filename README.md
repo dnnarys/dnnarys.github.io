@@ -5,5 +5,4 @@
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
-jekyll new my-site
-cd my-site
+
